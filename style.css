@@ -6,11 +6,6 @@ body {
     font-family: 'Slabo 27px', serif;
 }
 
-::-webkit-scrollbar {
-    display: hidden;
-}
-
-
 /* Acá empieza el NAV */
 nav {
     display: flex;
